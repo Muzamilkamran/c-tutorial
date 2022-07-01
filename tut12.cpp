@@ -14,7 +14,7 @@ cout<<"the address of b"<<b<<endl;
 
 // *-->>(value at) deference operators 
 cout<<"the value at address of b"<<*b<<endl;
-// pointer to  pointer 
+// pointer to  pointer  
 int** c = &b;
 cout<<"the address of b is "<<&b<<endl;
 cout<<"the address of b is"<<c<<endl;
